@@ -1,0 +1,6 @@
+{
+  "name": "EPUB to MOBI Converter",
+  "description": "Convert single or multiple EPUB ebooks to MOBI format with fast batch processing, metadata extraction, preview, and download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
